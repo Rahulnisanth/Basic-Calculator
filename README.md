@@ -1,6 +1,7 @@
-Basic Calculator Project :-- 
+Basic Calculator Project :-
 
-This is a simple web-based calculator project built using HTML, CSS, and JavaScript. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+This is a simple web-based calculator project built using HTML, CSS, and JavaScript.
+It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
 
 Features:-
